@@ -1,5 +1,5 @@
 # ContextMenuSwitcher
-A simple bat script to switch between W10 and W11 context menu
+A simple bat script to switch between Windows 10 and Windows 11 context menu
 
 ![Screenshot 2023-11-17 094210](https://github.com/cafali/ContextMenuSwitcher/assets/77307171/fb759125-a345-469a-aeb7-16770935af32)
 
