@@ -1,6 +1,6 @@
 @echo off
-@title Context Menu Patcher
-@echo Context Menu Patcher
+@title Switch Context Menu
+@echo Select Context Menu
 @echo =======================
 @echo 10 - W10 Context Menu
 @echo 11 - W11 Context Menu 
